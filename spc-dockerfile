@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt install openjdk-17-jdk -y
+#This directory is part of the Maven installation, not related to individual Maven projects, which usually reside in your 
+#workspace or a project-specific directory. The actual project structure with src and pom.xml is separate from this
+
+
+
